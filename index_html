@@ -1,0 +1,63 @@
+<html>
+<body>
+  <head>
+    <h1>SDLC</h1>
+  </head>
+
+<p>Software Development Life Cycle</p>
+<ol>
+  <li>Planning and requirement analysis</li>
+  <li>Defining requirements</li>
+  <li>Designing the Product Architecture</li>
+  <li>Developing the Product</li>
+  <li>Testing the Product</li>
+  <li>Deployment in the Market and Maintenance</li>
+</ol>
+
+<h2>Accordion with symbols</h2>
+<button class="accordion">Planning and requirement analysis</button>
+<div class="panel">
+  <p>The planning stage (also called the feasibility stage) is exactly what it sounds like: the phase in which developers will plan for the upcoming project.</p>
+</div>
+
+<button class="accordion">Defining requirements</button>
+<div class="panel">
+  <p>Defining requirements is considered part of planning to determine what the application is supposed to do and its requirements. For example, a social media application would require the ability to connect with a friend. An inventory program might require a search feature.</p>
+</div>
+
+<button class="accordion">Designing the Product Architecture</button>
+<div class="panel">
+  <p>The Design phase models the way a software application will work. Some aspects of the design include:
+<br><br>
+Architecture – Specifies programming language, industry practices, overall design, and use of any templates or boilerplate
+User Interface – Defines the ways customers interact with the software, and how the software responds to input
+Platforms – Defines the platforms on which the software will run, such as Apple, Android, Windows version, Linux, or even gaming consoles
+Programming – Not just the programming language, but including methods of solving problems and performing tasks in the application
+Communications – Defines the methods that the application can communicate with other assets, such as a central server or other instances of the application
+Security – Defines the measures taken to secure the application, and may include SSL traffic encryption, password protection, and secure storage of user credentials</p>
+</div>
+
+<button class="accordion">Developing the Product</button>
+<div class="panel">
+  <p>This is the actual writing of the program. A small project might be written by a single developer, while a large project might be broken up and worked by several teams. Use an Access Control or Source Code Management application in this phase. These systems help developers track changes to the code. They also help ensure compatibility between different team projects and to make sure target goals are being met.</p>
+</div>
+
+<button class="accordion">Testing the Product</button>
+<div class="panel">
+  <p>It’s critical to test an application before making it available to users. Much of the testing can be automated, like security testing. Other testing can only be done in a specific environment – consider creating a simulated production environment for complex deployments. Testing should ensure that each function works correctly. Different parts of the application should also be tested to work seamlessly together—performance test, to reduce any hangs or lags in processing. The testing phase helps reduce the number of bugs and glitches that users encounter. This leads to a higher user satisfaction and a better usage rate.</p>
+</div>
+
+<button class="accordion">Deployment in the Market and Maintenance</button>
+<div class="panel">
+  <p>In the deployment phase, the application is made available to users. Many companies prefer to automate the deployment phase. This can be as simple as a payment portal and download link on the company website. It could also be downloading an application on a smartphone.
+
+Deployment can also be complex. Upgrading a company-wide database to a newly-developed application is one example. Because there are several other systems used by the database, integrating the upgrade can take more time and effort.
+    <br><br>
+      At this point, the development cycle is almost finished. The application is done and being used in the field. The Operation and Maintenance phase is still important, though. In this phase, users discover bugs that weren’t found during testing. These errors need to be resolved, which can spawn new development cycles.
+
+In addition to bug fixes, models like Iterative development plan additional features in future releases. For each new release, a new Development Cycle can be launched.
+    </p>
+</div>
+
+</body>
+</html>
